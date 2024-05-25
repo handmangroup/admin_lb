@@ -1,0 +1,12 @@
+{
+    "name": "handmangroup/admin_lb",
+    "description": "Adjusts the Claro admin theme to use bootstrap grid",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Jill Handman",
+            "email": "jill@handmangroup.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
