@@ -1,0 +1,7 @@
+base:
+  version: VERSION
+  css:
+    component:
+      css/bootstrap-grid.css: {}
+  dependencies:
+    - system/base

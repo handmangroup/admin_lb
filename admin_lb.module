@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * Implements hook_system_theme_info_alter().
+ */
+function admin_lb_preprocess_page(&$variables) {
+  $active_theme = \Drupal::theme()->getActiveTheme()->getName();
+  if ($active_theme === 'claro') {
+    $variables['#attached']['library'][] = 'admin_lb/base';
+  }
+}
