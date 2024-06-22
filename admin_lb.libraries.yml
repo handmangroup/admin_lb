@@ -3,5 +3,6 @@ base:
   css:
     component:
       css/bootstrap-grid.css: {}
+      css/icons.css: {}
   dependencies:
     - system/base

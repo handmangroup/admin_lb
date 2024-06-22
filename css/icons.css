@@ -1,0 +1,264 @@
+img.svg-inject {
+    visibility: hidden; }
+
+.icon-svg,
+.icon-svg.icon-svg-lg {
+    width: 3rem;
+    height: 3rem; }
+
+.icon-svg.icon-svg-md {
+    width: 2.6rem;
+    height: 2.6rem; }
+
+.icon-svg.icon-svg-sm {
+    width: 2.2rem;
+    height: 2.2rem; }
+
+.icon-svg.icon-svg-xs {
+    width: 1.8rem;
+    height: 1.8rem; }
+
+.svg-bg {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    width: 3rem;
+    height: 3rem; }
+.svg-bg .icon-svg {
+    width: 1.3rem;
+    height: 1.3rem; }
+.svg-bg.svg-bg-lg {
+    width: 4rem;
+    height: 4rem; }
+.svg-bg.svg-bg-lg .icon-svg {
+    width: 1.5rem;
+    height: 1.5rem; }
+
+.lineal-fill {
+    fill: #8caeec; }
+
+.lineal-stroke {
+    fill: #36496d; }
+
+.text-blue .lineal-fill {
+    fill: #8caeec; }
+
+.text-red .lineal-fill {
+    fill: #eea1a6; }
+
+.text-orange .lineal-fill {
+    fill: #fab9ad; }
+
+.text-yellow .lineal-fill {
+    fill: #fcd49b; }
+
+.text-green .lineal-fill {
+    fill: #8fdcc6; }
+
+.text-white .lineal-fill {
+    fill: white; }
+
+.text-light .lineal-fill {
+    fill: #fefefe; }
+
+.text-gray .lineal-fill {
+    fill: #fafafb; }
+
+.text-dark .lineal-fill {
+    fill: #7d8084; }
+
+.text-primary .lineal-fill {
+    fill: #8caeec; }
+
+.solid .fill-primary,
+.solid .fill-secondary {
+    fill: #3f78e0; }
+
+.solid.text-blue .fill-primary,
+.solid.text-blue .fill-secondary {
+    fill: #3f78e0; }
+
+.solid.text-red .fill-primary,
+.solid.text-red .fill-secondary {
+    fill: #e2626b; }
+
+.solid.text-orange .fill-primary,
+.solid.text-orange .fill-secondary {
+    fill: #f78b77; }
+
+.solid.text-yellow .fill-primary,
+.solid.text-yellow .fill-secondary {
+    fill: #fab758; }
+
+.solid.text-green .fill-primary,
+.solid.text-green .fill-secondary {
+    fill: #45c4a0; }
+
+.solid.text-white .fill-primary,
+.solid.text-white .fill-secondary {
+    fill: #fff; }
+
+.solid.text-light .fill-primary,
+.solid.text-light .fill-secondary {
+    fill: #fefefe; }
+
+.solid.text-gray .fill-primary,
+.solid.text-gray .fill-secondary {
+    fill: #f6f7f9; }
+
+.solid.text-dark .fill-primary,
+.solid.text-dark .fill-secondary {
+    fill: #262b32; }
+
+.solid.text-primary .fill-primary,
+.solid.text-primary .fill-secondary {
+    fill: #3f78e0; }
+
+.solid-mono .fill-primary {
+    fill: #3f78e0; }
+
+.solid-mono .fill-secondary {
+    fill: #b2c9f3; }
+
+.solid-mono.text-blue .fill-primary {
+    fill: #3f78e0; }
+
+.solid-mono.text-blue .fill-secondary {
+    fill: #b2c9f3; }
+
+.solid-mono.text-red .fill-primary {
+    fill: #e2626b; }
+
+.solid-mono.text-red .fill-secondary {
+    fill: #f3c0c4; }
+
+.solid-mono.text-orange .fill-primary {
+    fill: #f78b77; }
+
+.solid-mono.text-orange .fill-secondary {
+    fill: #fcd1c9; }
+
+.solid-mono.text-yellow .fill-primary {
+    fill: #fab758; }
+
+.solid-mono.text-yellow .fill-secondary {
+    fill: #fde2bc; }
+
+.solid-mono.text-green .fill-primary {
+    fill: #45c4a0; }
+
+.solid-mono.text-green .fill-secondary {
+    fill: #b5e7d9; }
+
+.solid-mono.text-white .fill-primary {
+    fill: #fff; }
+
+.solid-mono.text-white .fill-secondary {
+    fill: white; }
+
+.solid-mono.text-light .fill-primary {
+    fill: #fefefe; }
+
+.solid-mono.text-light .fill-secondary {
+    fill: white; }
+
+.solid-mono.text-gray .fill-primary {
+    fill: #f6f7f9; }
+
+.solid-mono.text-gray .fill-secondary {
+    fill: #fbfcfd; }
+
+.solid-mono.text-dark .fill-primary {
+    fill: #262b32; }
+
+.solid-mono.text-dark .fill-secondary {
+    fill: #a8aaad; }
+
+.solid-mono.text-primary .fill-primary {
+    fill: #3f78e0; }
+
+.solid-mono.text-primary .fill-secondary {
+    fill: #b2c9f3; }
+
+.solid-duo.text-purple-aqua .fill-primary {
+    fill: #747ed1; }
+
+.solid-duo.text-purple-aqua .fill-secondary {
+    fill: #8ce0f1; }
+
+.solid-duo.text-navy-green .fill-primary {
+    fill: #414b64; }
+
+.solid-duo.text-navy-green .fill-secondary {
+    fill: #45c4a0; }
+
+.solid-duo.text-grape-fuchsia .fill-primary {
+    fill: #605dba; }
+
+.solid-duo.text-grape-fuchsia .fill-secondary {
+    fill: #f857a6; }
+
+.solid-duo.text-grape-green .fill-primary {
+    fill: #605dba; }
+
+.solid-duo.text-grape-green .fill-secondary {
+    fill: #94dd8e; }
+
+.solid-duo.text-navy-sky .fill-primary {
+    fill: #414b64; }
+
+.solid-duo.text-navy-sky .fill-secondary {
+    fill: #5eb9f0; }
+
+.solid-duo.text-blue-pink .fill-primary {
+    fill: #3f78e0; }
+
+.solid-duo.text-blue-pink .fill-secondary {
+    fill: #fc7eb9; }
+
+.solid-duo.text-green-fuchsia .fill-primary {
+    fill: #8ed882; }
+
+.solid-duo.text-green-fuchsia .fill-secondary {
+    fill: #e668b3; }
+
+.solid-duo.text-grape-yellow .fill-primary {
+    fill: #605dba; }
+
+.solid-duo.text-grape-yellow .fill-secondary {
+    fill: #fab758; }
+
+.solid-duo.text-sky-pink .fill-primary {
+    fill: #5eb9f0; }
+
+.solid-duo.text-sky-pink .fill-secondary {
+    fill: #ff98ab; }
+
+.solid-duo.text-purple-pink .fill-primary {
+    fill: #747ed1; }
+
+.solid-duo.text-purple-pink .fill-secondary {
+    fill: #fdb9d3; }
+
+.solid-duo.text-green-red .fill-primary {
+    fill: #45c4a0; }
+
+.solid-duo.text-green-red .fill-secondary {
+    fill: #ff7c94; }
+
+.solid-duo.text-red-yellow .fill-primary {
+    fill: #e54281; }
+
+.solid-duo.text-red-yellow .fill-secondary {
+    fill: #fab758; }
